@@ -1,0 +1,24 @@
+<AsXml>
+    <AsPolicy>
+        <PolicyGuid>6CCA0B15-EFAC-471F-A698-27949AB9B9C4</PolicyGuid>
+        <PlanGuid>3904A440-E035-40A1-9905-D544F7A6C093</PlanGuid>
+        <CompanyGuid>A9211F9D-2C3B-4523-8151-768684696488</CompanyGuid>
+        <PolicyNumber>CIT31012299</PolicyNumber>
+        <PolicyName>Term Policy</PolicyName>
+        <IssueStateCode>32</IssueStateCode>
+        <PlanDate>1/29/2031 12:00:00 AM</PlanDate>
+        <UpdatedGmt>9/10/2010 4:40:01 PM</UpdatedGmt>
+        <StatusCode>09</StatusCode>
+        <CreationDate>1/29/2011 12:00:00 AM</CreationDate>
+        <XmlData/>
+        <FirstName>Saheed</FirstName>
+        <Surname>Tali</Surname>
+        <NINNumber>456****5533</NINNumber>
+        <ProductType>Risk</ProductType>
+        <Premium>5000</Premium>
+		<Currency>NGN</Currency>
+        <HomeAddress>20 Alhaji Tafa Street, Iganmu Lagos</HomeAddress>
+        <PolicyDuration>10 years</PolicyDuration>
+        <Identification>NIN</Identification>
+    </AsPolicy>
+</AsXml>
